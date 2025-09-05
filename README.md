@@ -2,6 +2,8 @@
 
 Landing page project from The Odin Project foundations course.
 
+[Live Demo](https://ar1ze.github.io/odin-landing-page/)
+
 ## What I built
 - Landing page using HTML and CSS 
 - Flexbox for layout
