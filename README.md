@@ -1,5 +1,9 @@
 # Odin Project Landing Page
 
+<div align="center">
+  <img src="images/design/01.png" alt="Landing Page Design" />
+</div>
+
 Landing page project from The Odin Project foundations course.
 
 [Live Demo](https://ar1ze.github.io/odin-landing-page/)
@@ -20,10 +24,3 @@ This was my first time building a complete webpage from a design mockup. I pract
 - CSS positioning and flexbox
 - Making things responsive
 - Matching a design spec
-
-## Setup
-Clone this repo and open `index.html` in your browser.
-
-```bash
-git clone https://github.com/yourusername/odin-landing-page.git
-```
