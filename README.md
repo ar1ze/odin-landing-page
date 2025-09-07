@@ -1,7 +1,7 @@
 # Odin Project Landing Page
 
 <div align="center">
-  <img src="images/design/01.png" alt="Landing Page Design" />
+  <img src="images/demo.png" alt="Landing Page Design" />
 </div>
 
 Landing page project from The Odin Project foundations course.
