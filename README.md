@@ -1,26 +1,23 @@
-# Odin Project Landing Page
+# Landing Page 🌐
+
+A simple, static landing page project created to practice and showcase fundamental web development skills. 
 
 <div align="center">
-  <img src="images/demo.png" alt="Landing Page Design" />
+  <img src="images/demo.png" alt="Landing Page Design" />
 </div>
 
-Landing page project from The Odin Project foundations course.
+## 🚀 Live Demo
 
 [Live Demo](https://ar1ze.github.io/odin-landing-page/)
 
-## What I built
-- Landing page using HTML and CSS 
-- Flexbox for layout
-- Basic responsive design (doesn't break on mobile)
+-----
 
-## Built with
-- HTML5
-- CSS3
-- Flexbox
+## ⚙️ Technologies & Concepts
 
-## What I learned
-This was my first time building a complete webpage from a design mockup. I practiced:
-- Structuring HTML properly
-- CSS positioning and flexbox
-- Making things responsive
-- Matching a design spec
+  * **HTML5**
+  * **CSS3**
+  * **Flexbox**
+
+-----
+
+This project is part of The Odin Project's curriculum.
